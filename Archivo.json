@@ -1,0 +1,43 @@
+[
+    {
+        "__class__": "Heladera",
+        "__atributos__": {
+            "Marca": "Philips",
+            "Modelo": "FKROA",
+            "Color": "Negro",
+            "Pais": "Argentina",
+            "Precio": 325000.0,
+            "Capacidad": 2300,
+            "Freezer": true,
+            "Ciclica": null
+        }
+    },
+    {
+        "__class__": "Lavarropa",
+        "__atributos__": {
+            "Marca": "Liliana",
+            "Modelo": "45LDKN",
+            "Color": "Blanco",
+            "Pais": "Argentina",
+            "Precio": 450000.0,
+            "Capacidad": 4,
+            "Velocidad": 2300,
+            "Cantidad": 2,
+            "TipoCarga": "Superior"
+        }
+    },
+    {
+        "__class__": "Televisor",
+        "__atributos__": {
+            "Marca": "Hitachi",
+            "Modelo": "IIOER89",
+            "Color": "Blanco",
+            "Pais": "USA",
+            "Precio": 45400.0,
+            "Tipo": "HD",
+            "Pulgadas": "55.5",
+            "Definicion": "HD",
+            "Internet": true
+        }
+    }
+]
